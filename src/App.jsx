@@ -1,11 +1,8 @@
-import "./App.scss";
-import Header from "./component/header";
-import Footer from "./component/footer";
-import Card from "./component/card";
+import Navbar from "./navigation/Navbar";
 function App() {
   return (
     <>
-      hi
+      <Navbar/>
     </>
   );
 }
