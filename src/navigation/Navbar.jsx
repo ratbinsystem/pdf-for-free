@@ -1,8 +1,8 @@
+import Search from "../component/search";
 import JButton from "../library/JButton";
-
 export default () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-danger">
+    <nav className="navbar navbar-expand-lg shadow-sm">
       <div className="container">
         <a className="navbar-brand" href="#">
           Navbar
@@ -18,17 +18,10 @@ export default () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-          <div className="d-flex" role="search">
-            <input
-              className="form-control me-2"
-              type="search"
-              placeholder="Search"
-              aria-label="Search"
-            />
-          </div>
-          <JButton text="Login" className="btn-outline-danger">
-            <i className="bi bi-google text-warning"></i>
+        <div className="collapse navbar-collapse d-flex" id="navbarTogglerDemo02">
+          <Search />
+          <JButton text="Login" className="btn-outline-danger d-flex me-0">
+            <i className="bi bi-google text-warning pe-1"></i>
           </JButton>
         </div>
       </div>
