@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pdf-for-free/static/css/main.79120326.css",
+    "main.js": "/pdf-for-free/static/js/main.92d70d76.js",
+    "static/js/453.1a19b24b.chunk.js": "/pdf-for-free/static/js/453.1a19b24b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/pdf-for-free/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/pdf-for-free/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/pdf.svg": "/pdf-for-free/static/media/pdf.a08004e23c25b9c3533238811f24a329.svg",
+    "index.html": "/pdf-for-free/index.html",
+    "main.79120326.css.map": "/pdf-for-free/static/css/main.79120326.css.map",
+    "main.92d70d76.js.map": "/pdf-for-free/static/js/main.92d70d76.js.map",
+    "453.1a19b24b.chunk.js.map": "/pdf-for-free/static/js/453.1a19b24b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79120326.css",
+    "static/js/main.92d70d76.js"
+  ]
+}
